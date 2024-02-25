@@ -1,0 +1,19 @@
+# directories
+bin/
+lib/
+share/
+tmp/
+
+# no lib includes
+include/FL/
+
+# no IDE files
+.vs/
+*.sdf
+*.opensdf
+*.suo
+*.aps
+*.vcxproj.user
+
+# no static analysis files
+*.cppcheck
